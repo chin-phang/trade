@@ -1,0 +1,9 @@
+### Eclipse ###
+.classpath
+.project
+
+### IntelliJ IDEA ###
+.idea
+
+### VS Code ###
+.vscode/
